@@ -7,7 +7,7 @@
 # AWS Toolkit for JetBrains
 
 AWS Toolkit for JetBrains is a plugin for JetBrains IDEs that 
-make it easier to write applications built on [Amazon Web Services](https://aws.amazon.com/)
+make it easier to write applications built on [Amazon Web Services.](https://aws.amazon.com/).
 
 The AWS Toolkit for JetBrains is open source because we want you to be involved. We appreciate issues, feature requests, pull 
 requests, code reviews or any other contributions.
@@ -16,10 +16,10 @@ requests, code reviews or any other contributions.
 
 We want your feedback!
 
-- Vote on [feature requests](https://github.com/aws/aws-toolkit-jetbrains/issues?q=is%3Aissue+is%3Aopen+label%3Afeature-request+sort%3Areactions-%2B1-desc). Votes help us drive prioritization of features 
-- [Request a new feature](https://github.com/aws/aws-toolkit-jetbrains/issues/new?labels=feature-request&template=feature_request.md)
-- [Ask a question](https://github.com/aws/aws-toolkit-jetbrains/issues/new?labels=guidance&template=guidance_request.md)
-- [File an issue](https://github.com/aws/aws-toolkit-jetbrains/issues/new?labels=bug&template=bug_report.md)
+- Vote on [feature requests](https://github.com/aws/aws-toolkit-jetbrains/issues?q=is%3Aissue+is%3Aopen+label%3Afeature-request+sort%3Areactions-%2B1-desc). Votes help us drive prioritization of features.
+- [Request a new feature.](https://github.com/aws/aws-toolkit-jetbrains/issues/new?labels=feature-request&template=feature_request.md)
+- [Ask a question.](https://github.com/aws/aws-toolkit-jetbrains/issues/new?labels=guidance&template=guidance_request.md)
+- [File an issue.](https://github.com/aws/aws-toolkit-jetbrains/issues/new?labels=bug&template=bug_report.md)
 - Code contributions. See [our contributing guide](CONTRIBUTING.md) for how to get started.
 
 ## Supported IDEs
@@ -39,7 +39,7 @@ We also offer opt-in Early Access Preview builds that are built automatically.
 
 In order to opt-in:
 * Add the URL `https://plugins.jetbrains.com/plugins/eap/aws.toolkit` to your IDE's plugin repository preferences by 
-going to **Plugins->Gear Icon->Manage Plugin Repositories** and adding the URL to the list
+going to **Plugins->Gear Icon->Manage Plugin Repositories** and adding the URL to the list.
 * Check for updates.
 
 ### Installing From Source
@@ -59,9 +59,9 @@ authentication options](https://docs.aws.amazon.com/console/toolkit-for-jetbrain
 ### Services
 
 #### ![CloudFormation][cloudformation-icon] AWS CloudFormation
-* View events, resources, and outputs for your CloudFormation stacks
+* View events, resources, and outputs for your CloudFormation stacks.
 #### ![CloudWatch Logs][cloudwatch-logs-icon] CloudWatch Logs 
-* View and search your CloudWatch log streams
+* View and search your CloudWatch log streams.
 #### ![AWS Lambda][lambda-icon] AWS Lambda
 
 Many of these features require the [AWS SAM CLI](https://github.com/awslabs/aws-sam-cli) to be installed, see the 
@@ -73,24 +73,24 @@ installation of the SAM CLI.
 * **Run/Debug Local Lambda Functions** - Locally test and step-through debug functions in a Lambda-like execution 
 environment provided by the SAM CLI.
 [Learn More](https://docs.aws.amazon.com/console/toolkit-for-jetbrains/lambda-local)
-* **Invoke Remote Lambda Functions** - Invoke remote functions using a sharable run-configuration
+* **Invoke Remote Lambda Functions** - Invoke remote functions using a sharable run-configuration.
 [Learn More](https://docs.aws.amazon.com/console/toolkit-for-jetbrains/lambda-remote)
-* **Package & Deploy Lambda Functions** - Ability to package a Lambda function zip and create a remote lambda
+* **Package & Deploy Lambda Functions** - Ability to package a Lambda function zip and create a remote lambda.
 [Learn More](https://docs.aws.amazon.com/console/toolkit-for-jetbrains/lambda-deploy)
-* **Deploy SAM-based Applications** - Package, deploy & track SAM-based applications
+* **Deploy SAM-based Applications** - Package, deploy & track SAM-based applications.
 [Learn More](https://docs.aws.amazon.com/console/toolkit-for-jetbrains/sam-deploy)
 
 *Note: Python features are available in both PyCharm and IntelliJ with the 
 [Python Plugin](https://www.jetbrains.com/help/idea/plugin-overview.html) installed.*
 
 #### ![Amazon Redshift][redshift-icon] Amazon RDS/Redshift
-* Connect to RDS/Redshift databases using temporary credentials with IAM/SecretsManager, no copy paste required
+* Connect to RDS/Redshift databases using temporary credentials with IAM/SecretsManager, no copy paste required.
 
-*Note: database features require using a paid JetBrains product*
+*Note: database features require using a paid JetBrains product.*
 #### ![Amazon S3][s3-icon] Amazon S3
-* View and manage your S3 buckets
-* Upload/Download to from buckets
-* [Learn more](https://docs.aws.amazon.com/console/toolkit-for-jetbrains/s3-tasks)
+* View and manage your S3 buckets.
+* Upload/Download to from buckets.
+* [Learn more.](https://docs.aws.amazon.com/console/toolkit-for-jetbrains/s3-tasks)
 
 ### Experimental Features
 
